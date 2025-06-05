@@ -17,3 +17,4 @@ Crear un sumador completo en Verilog que permita calcular el resultado de la sum
 - Diversos problemas sobre comó funciona la herramienta de Verilog (Online Verilog Compiler).
 
 ## Link del programa con el ejercicio
+- Por alguna razón no deja copiar el link de la pagina directamente
